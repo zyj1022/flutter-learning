@@ -18,6 +18,7 @@ About learning flutter，tutorials，demos，articles and more.
 
 ## Resources
 
+- [《Flutter实战》电子书](https://book.flutterchina.club)
 - [material-ui](https://material-ui.com)
 - [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
